@@ -14,4 +14,3 @@ website to find complementary colors: https://material.io/design/color/the-color
 
 ### Frameworks
 - antd
-- Tailwind CSS
